@@ -1,12 +1,11 @@
 # Split Keyboard
 
-A 52-key wireless split keyboard built around the Seeed Studio XIAO nRF52840 (BLE). It is made with assistance from Hack Club's Blueprint event and the layout/ergonomics take inspiration from the ZSA Voyager form factor. 
+A 52-key wireless split keyboard built based on Hack Club's Blueprint event. The layout is inspired from the Voyager split keyboard.
 
-## What this is
-- **Wireless split** (two halves) using an nRF52840 board with BLE capability.
-- **Keyboard matrix** scanning (rows/columns) with a diode per key to prevent ghosting. 
-- **Battery support** (XIAO has battery management; board includes pads/testpoints for VBAT/GND). 
-- **Firmware:** Made with ZMK firmware.
+## Features
+- 2 halves made using an nRF52840 board.
+- Keyboard matricies with a diode per key to prevent ghosting. 
+- Firmware made using ZMK.
 
 ## Full Assembly
 <img width="1377" height="787" alt="Screenshot 2026-01-18 at 1 18 55 PM" src="https://github.com/user-attachments/assets/7bdea8ea-7bd4-4a47-a2da-35ec2edde325" />
