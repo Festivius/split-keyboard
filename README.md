@@ -20,5 +20,6 @@ A 52-key wireless split keyboard built based on Hack Club's Blueprint event. The
 <img width="715" height="491" alt="Screenshot 2026-01-22 at 8 19 38 PM" src="https://github.com/user-attachments/assets/e83b3dca-c529-4f22-9d1c-bc4776a2506f" />
 <img width="87" height="91" alt="Screenshot 2026-01-22 at 8 19 50 PM" src="https://github.com/user-attachments/assets/94851680-0b59-4e64-ab25-bf03d8920625" />
 
-## BOM Google Spreadsheet
-https://docs.google.com/spreadsheets/d/1scmbFPXyWhwTjG62Wf-ZZxOXmaFE0clojSQbeUU-Yh4/edit?usp=sharing
+## Cart Screenshots
+<img width="1512" height="982" alt="Screenshot 2026-03-29 at 1 32 01 PM" src="https://github.com/user-attachments/assets/4a12af04-815e-41b1-a941-7c7396213f0b" />
+<img width="1512" height="982" alt="Screenshot 2026-03-29 at 1 34 22 PM" src="https://github.com/user-attachments/assets/ea45870a-cc12-449c-847e-d4b792ee53a4" />
